@@ -25,6 +25,14 @@ header {
     margin: 0px auto;
 }
 
+#character_nav {
+    background-color: #675050;
+    background-image: url('../images/characters_art_mas_mob_01.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
 .characters {
     list-style-type: none;
     padding: 0;
